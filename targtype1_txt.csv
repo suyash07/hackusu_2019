@@ -1,0 +1,2322 @@
+,Country,Target_Type,Count
+0,Afghanistan,Airports & Aircraft,64
+1,Afghanistan,Business,464
+2,Afghanistan,Educational Institution,325
+3,Afghanistan,Food or Water Supply,14
+4,Afghanistan,Government (Diplomatic),151
+5,Afghanistan,Government (General),1626
+6,Afghanistan,Journalists & Media,80
+7,Afghanistan,Military,2270
+8,Afghanistan,NGO,158
+9,Afghanistan,Other,8
+10,Afghanistan,Police,3558
+11,Afghanistan,Private Citizens & Property,2626
+12,Afghanistan,Religious Figures/Institutions,232
+13,Afghanistan,Telecommunication,70
+14,Afghanistan,Terrorists/Non-State Militia,119
+15,Afghanistan,Tourists,4
+16,Afghanistan,Transportation,149
+17,Afghanistan,Unknown,756
+18,Afghanistan,Utilities,38
+19,Afghanistan,Violent Political Party,19
+20,Albania,Business,6
+21,Albania,Educational Institution,2
+22,Albania,Government (Diplomatic),3
+23,Albania,Government (General),30
+24,Albania,Journalists & Media,4
+25,Albania,Military,1
+26,Albania,NGO,1
+27,Albania,Police,10
+28,Albania,Private Citizens & Property,11
+29,Albania,Religious Figures/Institutions,1
+30,Albania,Transportation,6
+31,Albania,Unknown,4
+32,Albania,Utilities,1
+33,Algeria,Airports & Aircraft,17
+34,Algeria,Business,180
+35,Algeria,Educational Institution,67
+36,Algeria,Food or Water Supply,2
+37,Algeria,Government (Diplomatic),18
+38,Algeria,Government (General),173
+39,Algeria,Journalists & Media,70
+40,Algeria,Maritime,2
+41,Algeria,Military,409
+42,Algeria,NGO,1
+43,Algeria,Other,3
+44,Algeria,Police,566
+45,Algeria,Private Citizens & Property,901
+46,Algeria,Religious Figures/Institutions,32
+47,Algeria,Telecommunication,20
+48,Algeria,Terrorists/Non-State Militia,30
+49,Algeria,Tourists,20
+50,Algeria,Transportation,111
+51,Algeria,Unknown,83
+52,Algeria,Utilities,35
+53,Algeria,Violent Political Party,3
+54,Andorra,Business,1
+55,Angola,Airports & Aircraft,12
+56,Angola,Business,48
+57,Angola,Educational Institution,1
+58,Angola,Food or Water Supply,6
+59,Angola,Government (Diplomatic),14
+60,Angola,Government (General),14
+61,Angola,Journalists & Media,2
+62,Angola,Maritime,2
+63,Angola,Military,31
+64,Angola,NGO,7
+65,Angola,Police,13
+66,Angola,Private Citizens & Property,138
+67,Angola,Religious Figures/Institutions,6
+68,Angola,Transportation,17
+69,Angola,Unknown,1
+70,Angola,Utilities,179
+71,Angola,Violent Political Party,8
+72,Antigua and Barbuda,Government (General),1
+73,Argentina,Abortion Related,1
+74,Argentina,Airports & Aircraft,7
+75,Argentina,Business,237
+76,Argentina,Educational Institution,16
+77,Argentina,Government (Diplomatic),42
+78,Argentina,Government (General),169
+79,Argentina,Journalists & Media,39
+80,Argentina,Military,96
+81,Argentina,NGO,4
+82,Argentina,Other,1
+83,Argentina,Police,41
+84,Argentina,Private Citizens & Property,114
+85,Argentina,Religious Figures/Institutions,20
+86,Argentina,Telecommunication,3
+87,Argentina,Terrorists/Non-State Militia,2
+88,Argentina,Transportation,15
+89,Argentina,Utilities,8
+90,Armenia,Business,3
+91,Armenia,Government (Diplomatic),1
+92,Armenia,Government (General),8
+93,Armenia,Journalists & Media,1
+94,Armenia,Military,2
+95,Armenia,Police,2
+96,Armenia,Private Citizens & Property,6
+97,Armenia,Transportation,1
+98,Australia,Airports & Aircraft,3
+99,Australia,Business,20
+100,Australia,Government (Diplomatic),23
+101,Australia,Government (General),10
+102,Australia,Journalists & Media,1
+103,Australia,Maritime,1
+104,Australia,Military,2
+105,Australia,Police,11
+106,Australia,Private Citizens & Property,13
+107,Australia,Religious Figures/Institutions,23
+108,Australia,Tourists,1
+109,Australia,Transportation,4
+110,Australia,Unknown,1
+111,Australia,Violent Political Party,1
+112,Austria,Airports & Aircraft,11
+113,Austria,Business,20
+114,Austria,Educational Institution,1
+115,Austria,Government (Diplomatic),28
+116,Austria,Government (General),7
+117,Austria,Journalists & Media,1
+118,Austria,Other,1
+119,Austria,Police,2
+120,Austria,Private Citizens & Property,29
+121,Austria,Religious Figures/Institutions,4
+122,Austria,Tourists,2
+123,Austria,Transportation,7
+124,Austria,Unknown,1
+125,Austria,Utilities,1
+126,Azerbaijan,Airports & Aircraft,1
+127,Azerbaijan,Business,2
+128,Azerbaijan,Government (General),15
+129,Azerbaijan,Maritime,1
+130,Azerbaijan,Military,5
+131,Azerbaijan,Police,4
+132,Azerbaijan,Private Citizens & Property,10
+133,Azerbaijan,Religious Figures/Institutions,4
+134,Azerbaijan,Transportation,6
+135,Azerbaijan,Utilities,1
+136,Bahamas,Government (General),2
+137,Bahamas,Journalists & Media,1
+138,Bahamas,Maritime,1
+139,Bahamas,Tourists,1
+140,Bahrain,Airports & Aircraft,1
+141,Bahrain,Business,33
+142,Bahrain,Educational Institution,10
+143,Bahrain,Government (Diplomatic),5
+144,Bahrain,Government (General),6
+145,Bahrain,Military,5
+146,Bahrain,Police,77
+147,Bahrain,Private Citizens & Property,42
+148,Bahrain,Religious Figures/Institutions,6
+149,Bahrain,Transportation,3
+150,Bahrain,Unknown,18
+151,Bahrain,Utilities,1
+152,Bangladesh,Airports & Aircraft,4
+153,Bangladesh,Business,89
+154,Bangladesh,Educational Institution,116
+155,Bangladesh,Government (Diplomatic),9
+156,Bangladesh,Government (General),310
+157,Bangladesh,Journalists & Media,27
+158,Bangladesh,Maritime,13
+159,Bangladesh,Military,20
+160,Bangladesh,NGO,6
+161,Bangladesh,Police,128
+162,Bangladesh,Private Citizens & Property,418
+163,Bangladesh,Religious Figures/Institutions,69
+164,Bangladesh,Telecommunication,1
+165,Bangladesh,Terrorists/Non-State Militia,21
+166,Bangladesh,Transportation,133
+167,Bangladesh,Unknown,91
+168,Bangladesh,Utilities,1
+169,Bangladesh,Violent Political Party,192
+170,Barbados,Airports & Aircraft,2
+171,Barbados,Tourists,1
+172,Belarus,Government (Diplomatic),2
+173,Belarus,Government (General),3
+174,Belarus,Police,2
+175,Belarus,Private Citizens & Property,3
+176,Belarus,Religious Figures/Institutions,1
+177,Belarus,Transportation,1
+178,Belarus,Unknown,1
+179,Belgium,Airports & Aircraft,15
+180,Belgium,Business,37
+181,Belgium,Educational Institution,3
+182,Belgium,Government (Diplomatic),32
+183,Belgium,Government (General),17
+184,Belgium,Military,7
+185,Belgium,NGO,6
+186,Belgium,Police,8
+187,Belgium,Private Citizens & Property,12
+188,Belgium,Religious Figures/Institutions,9
+189,Belgium,Telecommunication,1
+190,Belgium,Terrorists/Non-State Militia,1
+191,Belgium,Tourists,1
+192,Belgium,Transportation,2
+193,Belgium,Utilities,3
+194,Belize,Business,1
+195,Belize,Government (Diplomatic),2
+196,Belize,Government (General),3
+197,Belize,Private Citizens & Property,1
+198,Belize,Religious Figures/Institutions,1
+199,Benin,Business,1
+200,Benin,Government (Diplomatic),1
+201,Benin,Government (General),6
+202,Bhutan,Business,1
+203,Bhutan,Government (General),1
+204,Bhutan,Private Citizens & Property,3
+205,Bhutan,Utilities,1
+206,Bolivia,Airports & Aircraft,5
+207,Bolivia,Business,39
+208,Bolivia,Educational Institution,10
+209,Bolivia,Food or Water Supply,1
+210,Bolivia,Government (Diplomatic),23
+211,Bolivia,Government (General),75
+212,Bolivia,Journalists & Media,30
+213,Bolivia,Military,13
+214,Bolivia,NGO,2
+215,Bolivia,Police,6
+216,Bolivia,Private Citizens & Property,51
+217,Bolivia,Religious Figures/Institutions,10
+218,Bolivia,Telecommunication,6
+219,Bolivia,Transportation,9
+220,Bolivia,Utilities,29
+221,Bolivia,Violent Political Party,5
+222,Bosnia-Herzegovina,Business,5
+223,Bosnia-Herzegovina,Educational Institution,2
+224,Bosnia-Herzegovina,Government (Diplomatic),29
+225,Bosnia-Herzegovina,Government (General),14
+226,Bosnia-Herzegovina,Journalists & Media,8
+227,Bosnia-Herzegovina,Military,10
+228,Bosnia-Herzegovina,NGO,4
+229,Bosnia-Herzegovina,Police,11
+230,Bosnia-Herzegovina,Private Citizens & Property,36
+231,Bosnia-Herzegovina,Religious Figures/Institutions,22
+232,Bosnia-Herzegovina,Telecommunication,1
+233,Bosnia-Herzegovina,Terrorists/Non-State Militia,1
+234,Bosnia-Herzegovina,Transportation,7
+235,Bosnia-Herzegovina,Unknown,7
+236,Bosnia-Herzegovina,Utilities,2
+237,Botswana,Business,2
+238,Botswana,Police,2
+239,Botswana,Private Citizens & Property,6
+240,Brazil,Airports & Aircraft,7
+241,Brazil,Business,61
+242,Brazil,Educational Institution,1
+243,Brazil,Government (Diplomatic),22
+244,Brazil,Government (General),42
+245,Brazil,Journalists & Media,34
+246,Brazil,Military,9
+247,Brazil,NGO,8
+248,Brazil,Police,9
+249,Brazil,Private Citizens & Property,46
+250,Brazil,Religious Figures/Institutions,9
+251,Brazil,Telecommunication,1
+252,Brazil,Tourists,1
+253,Brazil,Transportation,11
+254,Brazil,Unknown,10
+255,Brazil,Violent Political Party,2
+256,Brunei,Business,1
+257,Brunei,Government (Diplomatic),5
+258,Bulgaria,Airports & Aircraft,3
+259,Bulgaria,Business,9
+260,Bulgaria,Educational Institution,1
+261,Bulgaria,Government (Diplomatic),6
+262,Bulgaria,Government (General),14
+263,Bulgaria,Journalists & Media,4
+264,Bulgaria,NGO,1
+265,Bulgaria,Police,3
+266,Bulgaria,Private Citizens & Property,5
+267,Bulgaria,Religious Figures/Institutions,2
+268,Bulgaria,Tourists,1
+269,Bulgaria,Transportation,2
+270,Bulgaria,Unknown,1
+271,Burkina Faso,Business,6
+272,Burkina Faso,Educational Institution,6
+273,Burkina Faso,Government (General),7
+274,Burkina Faso,Journalists & Media,1
+275,Burkina Faso,Military,10
+276,Burkina Faso,Police,11
+277,Burkina Faso,Private Citizens & Property,10
+278,Burkina Faso,Religious Figures/Institutions,1
+279,Burundi,Airports & Aircraft,1
+280,Burundi,Business,46
+281,Burundi,Educational Institution,49
+282,Burundi,Government (Diplomatic),9
+283,Burundi,Government (General),54
+284,Burundi,Journalists & Media,4
+285,Burundi,Maritime,2
+286,Burundi,Military,72
+287,Burundi,NGO,17
+288,Burundi,Police,56
+289,Burundi,Private Citizens & Property,226
+290,Burundi,Religious Figures/Institutions,14
+291,Burundi,Tourists,2
+292,Burundi,Transportation,25
+293,Burundi,Unknown,17
+294,Burundi,Utilities,4
+295,Burundi,Violent Political Party,15
+296,Cambodia,Airports & Aircraft,1
+297,Cambodia,Business,17
+298,Cambodia,Government (Diplomatic),33
+299,Cambodia,Government (General),24
+300,Cambodia,Journalists & Media,17
+301,Cambodia,Maritime,3
+302,Cambodia,Military,17
+303,Cambodia,NGO,3
+304,Cambodia,Police,4
+305,Cambodia,Private Citizens & Property,64
+306,Cambodia,Religious Figures/Institutions,2
+307,Cambodia,Telecommunication,1
+308,Cambodia,Terrorists/Non-State Militia,2
+309,Cambodia,Tourists,5
+310,Cambodia,Transportation,57
+311,Cambodia,Violent Political Party,9
+312,Cameroon,Business,12
+313,Cameroon,Educational Institution,4
+314,Cameroon,Food or Water Supply,1
+315,Cameroon,Government (Diplomatic),3
+316,Cameroon,Government (General),12
+317,Cameroon,Journalists & Media,1
+318,Cameroon,Maritime,3
+319,Cameroon,Military,56
+320,Cameroon,Police,22
+321,Cameroon,Private Citizens & Property,170
+322,Cameroon,Religious Figures/Institutions,19
+323,Cameroon,Terrorists/Non-State Militia,5
+324,Cameroon,Tourists,1
+325,Cameroon,Transportation,4
+326,Cameroon,Unknown,19
+327,Canada,Abortion Related,5
+328,Canada,Airports & Aircraft,1
+329,Canada,Business,11
+330,Canada,Educational Institution,3
+331,Canada,Food or Water Supply,1
+332,Canada,Government (Diplomatic),13
+333,Canada,Government (General),8
+334,Canada,Journalists & Media,4
+335,Canada,Military,4
+336,Canada,NGO,1
+337,Canada,Police,3
+338,Canada,Private Citizens & Property,16
+339,Canada,Religious Figures/Institutions,12
+340,Canada,Transportation,3
+341,Canada,Unknown,1
+342,Canada,Utilities,10
+343,Central African Republic,Business,6
+344,Central African Republic,Government (Diplomatic),55
+345,Central African Republic,Government (General),18
+346,Central African Republic,Journalists & Media,4
+347,Central African Republic,Military,18
+348,Central African Republic,NGO,14
+349,Central African Republic,Other,1
+350,Central African Republic,Police,8
+351,Central African Republic,Private Citizens & Property,139
+352,Central African Republic,Religious Figures/Institutions,13
+353,Central African Republic,Terrorists/Non-State Militia,4
+354,Central African Republic,Transportation,2
+355,Central African Republic,Violent Political Party,1
+356,Chad,Airports & Aircraft,2
+357,Chad,Business,5
+358,Chad,Government (Diplomatic),5
+359,Chad,Government (General),6
+360,Chad,Military,20
+361,Chad,NGO,4
+362,Chad,Police,6
+363,Chad,Private Citizens & Property,40
+364,Chad,Terrorists/Non-State Militia,1
+365,Chad,Tourists,1
+366,Chad,Transportation,1
+367,Chile,Airports & Aircraft,5
+368,Chile,Business,503
+369,Chile,Educational Institution,50
+370,Chile,Food or Water Supply,9
+371,Chile,Government (Diplomatic),41
+372,Chile,Government (General),248
+373,Chile,Journalists & Media,83
+374,Chile,Maritime,2
+375,Chile,Military,65
+376,Chile,NGO,4
+377,Chile,Police,226
+378,Chile,Private Citizens & Property,223
+379,Chile,Religious Figures/Institutions,143
+380,Chile,Telecommunication,19
+381,Chile,Tourists,2
+382,Chile,Transportation,257
+383,Chile,Unknown,5
+384,Chile,Utilities,462
+385,Chile,Violent Political Party,18
+386,China,Airports & Aircraft,13
+387,China,Business,31
+388,China,Educational Institution,4
+389,China,Government (Diplomatic),3
+390,China,Government (General),19
+391,China,Journalists & Media,2
+392,China,Military,2
+393,China,Police,40
+394,China,Private Citizens & Property,47
+395,China,Religious Figures/Institutions,1
+396,China,Tourists,2
+397,China,Transportation,82
+398,China,Unknown,5
+399,China,Utilities,1
+400,Colombia,Airports & Aircraft,70
+401,Colombia,Business,1340
+402,Colombia,Educational Institution,110
+403,Colombia,Food or Water Supply,15
+404,Colombia,Government (Diplomatic),86
+405,Colombia,Government (General),1162
+406,Colombia,Journalists & Media,196
+407,Colombia,Maritime,11
+408,Colombia,Military,1003
+409,Colombia,NGO,26
+410,Colombia,Police,1143
+411,Colombia,Private Citizens & Property,1581
+412,Colombia,Religious Figures/Institutions,110
+413,Colombia,Telecommunication,51
+414,Colombia,Terrorists/Non-State Militia,39
+415,Colombia,Tourists,18
+416,Colombia,Transportation,469
+417,Colombia,Unknown,118
+418,Colombia,Utilities,756
+419,Colombia,Violent Political Party,2
+420,Comoros,Government (General),4
+421,Comoros,Police,1
+422,Costa Rica,Airports & Aircraft,5
+423,Costa Rica,Business,9
+424,Costa Rica,Educational Institution,2
+425,Costa Rica,Government (Diplomatic),17
+426,Costa Rica,Government (General),11
+427,Costa Rica,Journalists & Media,8
+428,Costa Rica,Maritime,1
+429,Costa Rica,Military,3
+430,Costa Rica,Police,4
+431,Costa Rica,Private Citizens & Property,2
+432,Costa Rica,Terrorists/Non-State Militia,1
+433,Costa Rica,Tourists,1
+434,Costa Rica,Unknown,1
+435,Costa Rica,Utilities,2
+436,Croatia,Business,5
+437,Croatia,Educational Institution,2
+438,Croatia,Government (Diplomatic),6
+439,Croatia,Government (General),4
+440,Croatia,Military,4
+441,Croatia,Police,14
+442,Croatia,Private Citizens & Property,13
+443,Croatia,Religious Figures/Institutions,6
+444,Croatia,Transportation,3
+445,Cuba,Airports & Aircraft,4
+446,Cuba,Business,13
+447,Cuba,Government (Diplomatic),3
+448,Cuba,Maritime,7
+449,Cuba,Police,1
+450,Cuba,Private Citizens & Property,1
+451,Cuba,Transportation,1
+452,Cyprus,Airports & Aircraft,11
+453,Cyprus,Business,24
+454,Cyprus,Educational Institution,1
+455,Cyprus,Government (Diplomatic),12
+456,Cyprus,Government (General),22
+457,Cyprus,Journalists & Media,9
+458,Cyprus,Maritime,1
+459,Cyprus,Military,8
+460,Cyprus,Police,9
+461,Cyprus,Private Citizens & Property,23
+462,Cyprus,Religious Figures/Institutions,5
+463,Cyprus,Terrorists/Non-State Militia,6
+464,Cyprus,Unknown,1
+465,Czech Republic,Business,7
+466,Czech Republic,Government (General),8
+467,Czech Republic,Police,4
+468,Czech Republic,Private Citizens & Property,7
+469,Czech Republic,Religious Figures/Institutions,2
+470,Czech Republic,Transportation,3
+471,Czech Republic,Unknown,1
+472,Czechoslovakia,Airports & Aircraft,3
+473,Czechoslovakia,Government (Diplomatic),1
+474,Czechoslovakia,Government (General),2
+475,Czechoslovakia,Private Citizens & Property,3
+476,Czechoslovakia,Transportation,1
+477,Democratic Republic of the Congo,Airports & Aircraft,9
+478,Democratic Republic of the Congo,Business,15
+479,Democratic Republic of the Congo,Educational Institution,1
+480,Democratic Republic of the Congo,Government (Diplomatic),43
+481,Democratic Republic of the Congo,Government (General),39
+482,Democratic Republic of the Congo,Journalists & Media,13
+483,Democratic Republic of the Congo,Military,145
+484,Democratic Republic of the Congo,NGO,22
+485,Democratic Republic of the Congo,Police,44
+486,Democratic Republic of the Congo,Private Citizens & Property,425
+487,Democratic Republic of the Congo,Religious Figures/Institutions,11
+488,Democratic Republic of the Congo,Terrorists/Non-State Militia,2
+489,Democratic Republic of the Congo,Tourists,1
+490,Democratic Republic of the Congo,Transportation,4
+491,Democratic Republic of the Congo,Utilities,1
+492,Denmark,Airports & Aircraft,10
+493,Denmark,Business,9
+494,Denmark,Food or Water Supply,1
+495,Denmark,Government (Diplomatic),6
+496,Denmark,Government (General),2
+497,Denmark,Journalists & Media,1
+498,Denmark,Maritime,1
+499,Denmark,Police,1
+500,Denmark,Private Citizens & Property,4
+501,Denmark,Religious Figures/Institutions,4
+502,Denmark,Transportation,2
+503,Djibouti,Airports & Aircraft,1
+504,Djibouti,Business,4
+505,Djibouti,Educational Institution,1
+506,Djibouti,Government (General),2
+507,Djibouti,Military,8
+508,Djibouti,Police,2
+509,Djibouti,Private Citizens & Property,3
+510,Djibouti,Transportation,1
+511,Dominica,Police,2
+512,Dominica,Private Citizens & Property,1
+513,Dominican Republic,Business,12
+514,Dominican Republic,Educational Institution,3
+515,Dominican Republic,Government (Diplomatic),4
+516,Dominican Republic,Government (General),19
+517,Dominican Republic,Journalists & Media,3
+518,Dominican Republic,Military,1
+519,Dominican Republic,Police,12
+520,Dominican Republic,Private Citizens & Property,30
+521,Dominican Republic,Religious Figures/Institutions,2
+522,Dominican Republic,Transportation,3
+523,Dominican Republic,Unknown,1
+524,East Germany (GDR),Business,10
+525,East Germany (GDR),Educational Institution,1
+526,East Germany (GDR),Government (Diplomatic),4
+527,East Germany (GDR),Government (General),5
+528,East Germany (GDR),Military,3
+529,East Germany (GDR),Police,8
+530,East Germany (GDR),Private Citizens & Property,4
+531,East Germany (GDR),Religious Figures/Institutions,1
+532,East Germany (GDR),Terrorists/Non-State Militia,1
+533,East Germany (GDR),Unknown,1
+534,East Timor,Government (Diplomatic),3
+535,East Timor,Government (General),4
+536,East Timor,Private Citizens & Property,2
+537,East Timor,Transportation,1
+538,Ecuador,Airports & Aircraft,1
+539,Ecuador,Business,30
+540,Ecuador,Educational Institution,5
+541,Ecuador,Food or Water Supply,1
+542,Ecuador,Government (Diplomatic),26
+543,Ecuador,Government (General),68
+544,Ecuador,Journalists & Media,19
+545,Ecuador,Maritime,3
+546,Ecuador,Military,7
+547,Ecuador,NGO,2
+548,Ecuador,Police,13
+549,Ecuador,Private Citizens & Property,20
+550,Ecuador,Religious Figures/Institutions,6
+551,Ecuador,Tourists,2
+552,Ecuador,Transportation,14
+553,Ecuador,Utilities,3
+554,Egypt,Airports & Aircraft,11
+555,Egypt,Business,141
+556,Egypt,Educational Institution,35
+557,Egypt,Food or Water Supply,6
+558,Egypt,Government (Diplomatic),22
+559,Egypt,Government (General),101
+560,Egypt,Journalists & Media,14
+561,Egypt,Maritime,6
+562,Egypt,Military,565
+563,Egypt,NGO,1
+564,Egypt,Other,8
+565,Egypt,Police,842
+566,Egypt,Private Citizens & Property,257
+567,Egypt,Religious Figures/Institutions,65
+568,Egypt,Telecommunication,9
+569,Egypt,Terrorists/Non-State Militia,10
+570,Egypt,Tourists,27
+571,Egypt,Transportation,63
+572,Egypt,Unknown,211
+573,Egypt,Utilities,83
+574,Egypt,Violent Political Party,2
+575,El Salvador,Airports & Aircraft,12
+576,El Salvador,Business,584
+577,El Salvador,Educational Institution,72
+578,El Salvador,Food or Water Supply,11
+579,El Salvador,Government (Diplomatic),64
+580,El Salvador,Government (General),450
+581,El Salvador,Journalists & Media,128
+582,El Salvador,Military,1570
+583,El Salvador,NGO,11
+584,El Salvador,Other,1
+585,El Salvador,Police,241
+586,El Salvador,Private Citizens & Property,623
+587,El Salvador,Religious Figures/Institutions,29
+588,El Salvador,Telecommunication,118
+589,El Salvador,Terrorists/Non-State Militia,13
+590,El Salvador,Transportation,279
+591,El Salvador,Unknown,41
+592,El Salvador,Utilities,1063
+593,El Salvador,Violent Political Party,10
+594,Equatorial Guinea,Government (General),1
+595,Equatorial Guinea,Private Citizens & Property,1
+596,Eritrea,Business,1
+597,Eritrea,Government (General),1
+598,Eritrea,Military,5
+599,Eritrea,Private Citizens & Property,2
+600,Eritrea,Tourists,1
+601,Estonia,Business,1
+602,Estonia,Educational Institution,1
+603,Estonia,Government (General),2
+604,Estonia,Journalists & Media,2
+605,Estonia,Military,2
+606,Estonia,Private Citizens & Property,2
+607,Estonia,Transportation,2
+608,Estonia,Unknown,4
+609,Ethiopia,Airports & Aircraft,12
+610,Ethiopia,Business,40
+611,Ethiopia,Educational Institution,4
+612,Ethiopia,Government (Diplomatic),16
+613,Ethiopia,Government (General),12
+614,Ethiopia,Journalists & Media,3
+615,Ethiopia,Maritime,1
+616,Ethiopia,Military,18
+617,Ethiopia,NGO,6
+618,Ethiopia,Police,10
+619,Ethiopia,Private Citizens & Property,37
+620,Ethiopia,Religious Figures/Institutions,3
+621,Ethiopia,Tourists,4
+622,Ethiopia,Transportation,11
+623,Ethiopia,Unknown,2
+624,Ethiopia,Utilities,5
+625,Ethiopia,Violent Political Party,6
+626,Falkland Islands,Maritime,1
+627,Fiji,Airports & Aircraft,1
+628,Fiji,Business,5
+629,Fiji,Government (General),2
+630,Fiji,Military,1
+631,Fiji,Private Citizens & Property,1
+632,Fiji,Religious Figures/Institutions,4
+633,Fiji,Transportation,2
+634,Fiji,Utilities,1
+635,Finland,Educational Institution,1
+636,Finland,Government (Diplomatic),1
+637,Finland,Government (General),2
+638,Finland,Journalists & Media,1
+639,Finland,Police,1
+640,Finland,Private Citizens & Property,12
+641,Finland,Religious Figures/Institutions,1
+642,Finland,Transportation,1
+643,France,Airports & Aircraft,62
+644,France,Business,789
+645,France,Educational Institution,26
+646,France,Food or Water Supply,1
+647,France,Government (Diplomatic),125
+648,France,Government (General),547
+649,France,Journalists & Media,56
+650,France,Maritime,6
+651,France,Military,60
+652,France,NGO,11
+653,France,Other,5
+654,France,Police,204
+655,France,Private Citizens & Property,480
+656,France,Religious Figures/Institutions,68
+657,France,Telecommunication,23
+658,France,Terrorists/Non-State Militia,37
+659,France,Tourists,23
+660,France,Transportation,38
+661,France,Unknown,101
+662,France,Utilities,27
+663,France,Violent Political Party,4
+664,French Guiana,Government (General),4
+665,French Guiana,Police,2
+666,French Guiana,Private Citizens & Property,1
+667,French Polynesia,Airports & Aircraft,1
+668,French Polynesia,Government (General),2
+669,Gabon,Business,1
+670,Gabon,Government (General),2
+671,Gabon,Journalists & Media,2
+672,Gabon,Private Citizens & Property,1
+673,Gabon,Telecommunication,2
+674,Gambia,Government (General),2
+675,Gambia,Journalists & Media,1
+676,Georgia,Airports & Aircraft,1
+677,Georgia,Business,8
+678,Georgia,Educational Institution,3
+679,Georgia,Government (Diplomatic),17
+680,Georgia,Government (General),44
+681,Georgia,Journalists & Media,5
+682,Georgia,Military,26
+683,Georgia,NGO,5
+684,Georgia,Police,35
+685,Georgia,Private Citizens & Property,34
+686,Georgia,Telecommunication,3
+687,Georgia,Terrorists/Non-State Militia,8
+688,Georgia,Transportation,20
+689,Georgia,Unknown,2
+690,Georgia,Utilities,6
+691,Germany,Airports & Aircraft,5
+692,Germany,Business,271
+693,Germany,Educational Institution,5
+694,Germany,Food or Water Supply,2
+695,Germany,Government (Diplomatic),34
+696,Germany,Government (General),57
+697,Germany,Journalists & Media,5
+698,Germany,Military,6
+699,Germany,NGO,1
+700,Germany,Police,31
+701,Germany,Private Citizens & Property,236
+702,Germany,Religious Figures/Institutions,40
+703,Germany,Tourists,5
+704,Germany,Transportation,32
+705,Germany,Unknown,2
+706,Germany,Utilities,3
+707,Ghana,Airports & Aircraft,1
+708,Ghana,Educational Institution,1
+709,Ghana,Government (General),3
+710,Ghana,Journalists & Media,3
+711,Ghana,Private Citizens & Property,10
+712,Ghana,Religious Figures/Institutions,1
+713,Greece,Airports & Aircraft,25
+714,Greece,Business,399
+715,Greece,Educational Institution,18
+716,Greece,Government (Diplomatic),132
+717,Greece,Government (General),279
+718,Greece,Journalists & Media,35
+719,Greece,Maritime,3
+720,Greece,Military,57
+721,Greece,NGO,8
+722,Greece,Other,1
+723,Greece,Police,92
+724,Greece,Private Citizens & Property,176
+725,Greece,Religious Figures/Institutions,11
+726,Greece,Telecommunication,3
+727,Greece,Terrorists/Non-State Militia,2
+728,Greece,Tourists,13
+729,Greece,Transportation,11
+730,Greece,Unknown,1
+731,Greece,Utilities,2
+732,Greece,Violent Political Party,7
+733,Grenada,Government (Diplomatic),1
+734,Grenada,Government (General),1
+735,Grenada,Military,1
+736,Grenada,Terrorists/Non-State Militia,1
+737,Grenada,Unknown,1
+738,Guadeloupe,Airports & Aircraft,3
+739,Guadeloupe,Business,16
+740,Guadeloupe,Government (General),16
+741,Guadeloupe,Journalists & Media,3
+742,Guadeloupe,Maritime,1
+743,Guadeloupe,Police,9
+744,Guadeloupe,Private Citizens & Property,7
+745,Guadeloupe,Unknown,1
+746,Guatemala,Airports & Aircraft,19
+747,Guatemala,Business,240
+748,Guatemala,Educational Institution,98
+749,Guatemala,Food or Water Supply,2
+750,Guatemala,Government (Diplomatic),53
+751,Guatemala,Government (General),234
+752,Guatemala,Journalists & Media,72
+753,Guatemala,Military,439
+754,Guatemala,NGO,7
+755,Guatemala,Police,190
+756,Guatemala,Private Citizens & Property,458
+757,Guatemala,Religious Figures/Institutions,27
+758,Guatemala,Telecommunication,17
+759,Guatemala,Terrorists/Non-State Militia,6
+760,Guatemala,Tourists,12
+761,Guatemala,Transportation,64
+762,Guatemala,Unknown,27
+763,Guatemala,Utilities,75
+764,Guatemala,Violent Political Party,10
+765,Guinea,Educational Institution,1
+766,Guinea,Government (Diplomatic),1
+767,Guinea,Government (General),4
+768,Guinea,Journalists & Media,3
+769,Guinea,Military,2
+770,Guinea,Private Citizens & Property,13
+771,Guinea,Religious Figures/Institutions,1
+772,Guinea-Bissau,Government (Diplomatic),2
+773,Guinea-Bissau,Government (General),3
+774,Guinea-Bissau,Military,2
+775,Guinea-Bissau,Private Citizens & Property,2
+776,Guyana,Business,2
+777,Guyana,Government (Diplomatic),1
+778,Guyana,Government (General),9
+779,Guyana,Journalists & Media,5
+780,Guyana,Police,3
+781,Guyana,Private Citizens & Property,2
+782,Guyana,Telecommunication,2
+783,Guyana,Transportation,1
+784,Guyana,Violent Political Party,1
+785,Haiti,Airports & Aircraft,3
+786,Haiti,Business,22
+787,Haiti,Educational Institution,5
+788,Haiti,Government (Diplomatic),11
+789,Haiti,Government (General),60
+790,Haiti,Journalists & Media,10
+791,Haiti,Maritime,1
+792,Haiti,Military,15
+793,Haiti,Police,26
+794,Haiti,Private Citizens & Property,52
+795,Haiti,Religious Figures/Institutions,3
+796,Haiti,Telecommunication,1
+797,Haiti,Transportation,2
+798,Haiti,Unknown,1
+799,Haiti,Utilities,1
+800,Honduras,Airports & Aircraft,8
+801,Honduras,Business,57
+802,Honduras,Educational Institution,8
+803,Honduras,Government (Diplomatic),32
+804,Honduras,Government (General),61
+805,Honduras,Journalists & Media,12
+806,Honduras,Military,46
+807,Honduras,NGO,2
+808,Honduras,Police,15
+809,Honduras,Private Citizens & Property,60
+810,Honduras,Religious Figures/Institutions,4
+811,Honduras,Telecommunication,1
+812,Honduras,Terrorists/Non-State Militia,3
+813,Honduras,Tourists,1
+814,Honduras,Transportation,4
+815,Honduras,Utilities,9
+816,Hong Kong,Business,7
+817,Hong Kong,Government (Diplomatic),1
+818,Hong Kong,Government (General),3
+819,Hong Kong,Journalists & Media,5
+820,Hong Kong,Maritime,3
+821,Hong Kong,Police,1
+822,Hong Kong,Private Citizens & Property,3
+823,Hong Kong,Telecommunication,1
+824,Hong Kong,Transportation,1
+825,Hong Kong,Utilities,1
+826,Hungary,Business,24
+827,Hungary,Educational Institution,1
+828,Hungary,Government (Diplomatic),3
+829,Hungary,Government (General),6
+830,Hungary,Police,1
+831,Hungary,Private Citizens & Property,3
+832,Hungary,Religious Figures/Institutions,2
+833,Hungary,Transportation,5
+834,Hungary,Violent Political Party,1
+835,Iceland,Government (Diplomatic),1
+836,Iceland,Government (General),1
+837,Iceland,Private Citizens & Property,1
+838,Iceland,Religious Figures/Institutions,1
+839,India,Airports & Aircraft,28
+840,India,Business,1131
+841,India,Educational Institution,297
+842,India,Food or Water Supply,12
+843,India,Government (Diplomatic),19
+844,India,Government (General),1727
+845,India,Journalists & Media,87
+846,India,Maritime,3
+847,India,Military,916
+848,India,NGO,20
+849,India,Other,2
+850,India,Police,2299
+851,India,Private Citizens & Property,3144
+852,India,Religious Figures/Institutions,214
+853,India,Telecommunication,139
+854,India,Terrorists/Non-State Militia,143
+855,India,Tourists,30
+856,India,Transportation,831
+857,India,Unknown,598
+858,India,Utilities,86
+859,India,Violent Political Party,234
+860,Indonesia,Airports & Aircraft,3
+861,Indonesia,Business,95
+862,Indonesia,Educational Institution,19
+863,Indonesia,Food or Water Supply,2
+864,Indonesia,Government (Diplomatic),27
+865,Indonesia,Government (General),76
+866,Indonesia,Journalists & Media,15
+867,Indonesia,Maritime,3
+868,Indonesia,Military,68
+869,Indonesia,NGO,10
+870,Indonesia,Police,110
+871,Indonesia,Private Citizens & Property,175
+872,Indonesia,Religious Figures/Institutions,112
+873,Indonesia,Terrorists/Non-State Militia,3
+874,Indonesia,Tourists,5
+875,Indonesia,Transportation,18
+876,Indonesia,Unknown,12
+877,Indonesia,Utilities,7
+878,Indonesia,Violent Political Party,1
+879,International,Maritime,1
+880,Iran,Airports & Aircraft,25
+881,Iran,Business,75
+882,Iran,Educational Institution,15
+883,Iran,Food or Water Supply,4
+884,Iran,Government (Diplomatic),53
+885,Iran,Government (General),111
+886,Iran,Journalists & Media,18
+887,Iran,Maritime,4
+888,Iran,Military,94
+889,Iran,NGO,4
+890,Iran,Police,75
+891,Iran,Private Citizens & Property,94
+892,Iran,Religious Figures/Institutions,47
+893,Iran,Telecommunication,2
+894,Iran,Tourists,2
+895,Iran,Transportation,22
+896,Iran,Unknown,5
+897,Iran,Utilities,34
+898,Iraq,Airports & Aircraft,32
+899,Iraq,Business,2112
+900,Iraq,Educational Institution,271
+901,Iraq,Food or Water Supply,25
+902,Iraq,Government (Diplomatic),127
+903,Iraq,Government (General),2216
+904,Iraq,Journalists & Media,178
+905,Iraq,Maritime,2
+906,Iraq,Military,3333
+907,Iraq,NGO,28
+908,Iraq,Other,60
+909,Iraq,Police,3682
+910,Iraq,Private Citizens & Property,8747
+911,Iraq,Religious Figures/Institutions,661
+912,Iraq,Telecommunication,21
+913,Iraq,Terrorists/Non-State Militia,958
+914,Iraq,Tourists,9
+915,Iraq,Transportation,472
+916,Iraq,Unknown,1286
+917,Iraq,Utilities,337
+918,Iraq,Violent Political Party,79
+919,Ireland,Airports & Aircraft,3
+920,Ireland,Business,66
+921,Ireland,Educational Institution,3
+922,Ireland,Government (Diplomatic),3
+923,Ireland,Government (General),14
+924,Ireland,Journalists & Media,1
+925,Ireland,Maritime,1
+926,Ireland,Military,4
+927,Ireland,Police,17
+928,Ireland,Private Citizens & Property,114
+929,Ireland,Religious Figures/Institutions,2
+930,Ireland,Terrorists/Non-State Militia,11
+931,Ireland,Transportation,5
+932,Ireland,Unknown,63
+933,Israel,Airports & Aircraft,5
+934,Israel,Business,179
+935,Israel,Educational Institution,38
+936,Israel,Food or Water Supply,5
+937,Israel,Government (Diplomatic),19
+938,Israel,Government (General),80
+939,Israel,Journalists & Media,10
+940,Israel,Maritime,2
+941,Israel,Military,297
+942,Israel,NGO,4
+943,Israel,Police,70
+944,Israel,Private Citizens & Property,1083
+945,Israel,Religious Figures/Institutions,39
+946,Israel,Telecommunication,1
+947,Israel,Terrorists/Non-State Militia,2
+948,Israel,Tourists,16
+949,Israel,Transportation,194
+950,Israel,Unknown,126
+951,Israel,Utilities,11
+952,Israel,Violent Political Party,2
+953,Italy,Airports & Aircraft,58
+954,Italy,Business,444
+955,Italy,Educational Institution,44
+956,Italy,Food or Water Supply,2
+957,Italy,Government (Diplomatic),73
+958,Italy,Government (General),314
+959,Italy,Journalists & Media,74
+960,Italy,Military,66
+961,Italy,NGO,2
+962,Italy,Other,1
+963,Italy,Police,201
+964,Italy,Private Citizens & Property,139
+965,Italy,Religious Figures/Institutions,25
+966,Italy,Telecommunication,5
+967,Italy,Terrorists/Non-State Militia,5
+968,Italy,Tourists,13
+969,Italy,Transportation,34
+970,Italy,Unknown,12
+971,Italy,Utilities,19
+972,Italy,Violent Political Party,34
+973,Ivory Coast,Business,7
+974,Ivory Coast,Educational Institution,1
+975,Ivory Coast,Government (Diplomatic),5
+976,Ivory Coast,Government (General),9
+977,Ivory Coast,Journalists & Media,2
+978,Ivory Coast,Military,22
+979,Ivory Coast,Police,7
+980,Ivory Coast,Private Citizens & Property,13
+981,Ivory Coast,Religious Figures/Institutions,3
+982,Ivory Coast,Transportation,1
+983,Ivory Coast,Utilities,2
+984,Ivory Coast,Violent Political Party,2
+985,Jamaica,Airports & Aircraft,1
+986,Jamaica,Business,2
+987,Jamaica,Government (Diplomatic),7
+988,Jamaica,Government (General),7
+989,Jamaica,Journalists & Media,2
+990,Jamaica,Military,1
+991,Jamaica,Police,6
+992,Jamaica,Private Citizens & Property,8
+993,Jamaica,Religious Figures/Institutions,2
+994,Japan,Airports & Aircraft,42
+995,Japan,Business,41
+996,Japan,Educational Institution,8
+997,Japan,Food or Water Supply,1
+998,Japan,Government (Diplomatic),19
+999,Japan,Government (General),76
+1000,Japan,Journalists & Media,11
+1001,Japan,Maritime,1
+1002,Japan,Military,31
+1003,Japan,NGO,2
+1004,Japan,Police,45
+1005,Japan,Private Citizens & Property,31
+1006,Japan,Religious Figures/Institutions,31
+1007,Japan,Telecommunication,3
+1008,Japan,Terrorists/Non-State Militia,5
+1009,Japan,Transportation,52
+1010,Japan,Utilities,3
+1011,Jordan,Airports & Aircraft,1
+1012,Jordan,Business,20
+1013,Jordan,Educational Institution,3
+1014,Jordan,Government (Diplomatic),22
+1015,Jordan,Government (General),21
+1016,Jordan,Journalists & Media,1
+1017,Jordan,Military,11
+1018,Jordan,Police,7
+1019,Jordan,Private Citizens & Property,11
+1020,Jordan,Terrorists/Non-State Militia,2
+1021,Jordan,Tourists,8
+1022,Jordan,Unknown,1
+1023,Jordan,Utilities,4
+1024,Jordan,Violent Political Party,1
+1025,Kazakhstan,Airports & Aircraft,1
+1026,Kazakhstan,Business,4
+1027,Kazakhstan,Educational Institution,1
+1028,Kazakhstan,Government (Diplomatic),1
+1029,Kazakhstan,Government (General),6
+1030,Kazakhstan,Journalists & Media,3
+1031,Kazakhstan,Military,1
+1032,Kazakhstan,Police,5
+1033,Kazakhstan,Private Citizens & Property,4
+1034,Kazakhstan,Transportation,1
+1035,Kenya,Airports & Aircraft,6
+1036,Kenya,Business,77
+1037,Kenya,Educational Institution,15
+1038,Kenya,Food or Water Supply,3
+1039,Kenya,Government (Diplomatic),10
+1040,Kenya,Government (General),64
+1041,Kenya,Journalists & Media,2
+1042,Kenya,Maritime,1
+1043,Kenya,Military,67
+1044,Kenya,NGO,15
+1045,Kenya,Other,1
+1046,Kenya,Police,164
+1047,Kenya,Private Citizens & Property,155
+1048,Kenya,Religious Figures/Institutions,46
+1049,Kenya,Telecommunication,8
+1050,Kenya,Terrorists/Non-State Militia,1
+1051,Kenya,Tourists,4
+1052,Kenya,Transportation,24
+1053,Kenya,Unknown,13
+1054,Kenya,Utilities,4
+1055,Kenya,Violent Political Party,3
+1056,Kosovo,Airports & Aircraft,1
+1057,Kosovo,Business,21
+1058,Kosovo,Educational Institution,3
+1059,Kosovo,Government (Diplomatic),20
+1060,Kosovo,Government (General),27
+1061,Kosovo,Journalists & Media,7
+1062,Kosovo,Military,14
+1063,Kosovo,Police,11
+1064,Kosovo,Private Citizens & Property,81
+1065,Kosovo,Religious Figures/Institutions,7
+1066,Kosovo,Transportation,3
+1067,Kosovo,Unknown,1
+1068,Kuwait,Airports & Aircraft,7
+1069,Kuwait,Business,18
+1070,Kuwait,Educational Institution,1
+1071,Kuwait,Government (Diplomatic),7
+1072,Kuwait,Government (General),6
+1073,Kuwait,Journalists & Media,3
+1074,Kuwait,Maritime,3
+1075,Kuwait,Military,7
+1076,Kuwait,Police,6
+1077,Kuwait,Private Citizens & Property,10
+1078,Kuwait,Religious Figures/Institutions,3
+1079,Kuwait,Terrorists/Non-State Militia,2
+1080,Kuwait,Unknown,1
+1081,Kuwait,Utilities,2
+1082,Kyrgyzstan,Business,4
+1083,Kyrgyzstan,Educational Institution,1
+1084,Kyrgyzstan,Government (Diplomatic),3
+1085,Kyrgyzstan,Government (General),5
+1086,Kyrgyzstan,Journalists & Media,3
+1087,Kyrgyzstan,Military,2
+1088,Kyrgyzstan,NGO,1
+1089,Kyrgyzstan,Police,6
+1090,Kyrgyzstan,Private Citizens & Property,4
+1091,Kyrgyzstan,Religious Figures/Institutions,1
+1092,Kyrgyzstan,Telecommunication,1
+1093,Kyrgyzstan,Tourists,2
+1094,Kyrgyzstan,Unknown,2
+1095,Laos,Airports & Aircraft,2
+1096,Laos,Business,5
+1097,Laos,Government (Diplomatic),1
+1098,Laos,Government (General),1
+1099,Laos,Maritime,1
+1100,Laos,Police,1
+1101,Laos,Private Citizens & Property,9
+1102,Laos,Tourists,2
+1103,Laos,Transportation,4
+1104,Laos,Unknown,1
+1105,Latvia,Business,3
+1106,Latvia,Government (Diplomatic),2
+1107,Latvia,Government (General),1
+1108,Latvia,Military,1
+1109,Latvia,Police,1
+1110,Latvia,Private Citizens & Property,3
+1111,Latvia,Religious Figures/Institutions,4
+1112,Latvia,Transportation,2
+1113,Lebanon,Airports & Aircraft,56
+1114,Lebanon,Business,225
+1115,Lebanon,Educational Institution,46
+1116,Lebanon,Food or Water Supply,2
+1117,Lebanon,Government (Diplomatic),228
+1118,Lebanon,Government (General),169
+1119,Lebanon,Journalists & Media,62
+1120,Lebanon,Maritime,5
+1121,Lebanon,Military,685
+1122,Lebanon,NGO,14
+1123,Lebanon,Police,48
+1124,Lebanon,Private Citizens & Property,420
+1125,Lebanon,Religious Figures/Institutions,67
+1126,Lebanon,Telecommunication,3
+1127,Lebanon,Terrorists/Non-State Militia,248
+1128,Lebanon,Tourists,3
+1129,Lebanon,Transportation,23
+1130,Lebanon,Unknown,61
+1131,Lebanon,Utilities,7
+1132,Lebanon,Violent Political Party,106
+1133,Lesotho,Airports & Aircraft,1
+1134,Lesotho,Business,7
+1135,Lesotho,Food or Water Supply,2
+1136,Lesotho,Government (Diplomatic),1
+1137,Lesotho,Government (General),6
+1138,Lesotho,Military,3
+1139,Lesotho,Police,2
+1140,Lesotho,Private Citizens & Property,4
+1141,Lesotho,Religious Figures/Institutions,2
+1142,Lesotho,Utilities,1
+1143,Liberia,Business,6
+1144,Liberia,Government (Diplomatic),3
+1145,Liberia,Government (General),5
+1146,Liberia,Journalists & Media,1
+1147,Liberia,Military,2
+1148,Liberia,NGO,3
+1149,Liberia,Private Citizens & Property,8
+1150,Liberia,Religious Figures/Institutions,4
+1151,Liberia,Terrorists/Non-State Militia,1
+1152,Liberia,Transportation,1
+1153,Libya,Airports & Aircraft,39
+1154,Libya,Business,192
+1155,Libya,Educational Institution,39
+1156,Libya,Food or Water Supply,3
+1157,Libya,Government (Diplomatic),64
+1158,Libya,Government (General),252
+1159,Libya,Journalists & Media,75
+1160,Libya,Maritime,7
+1161,Libya,Military,531
+1162,Libya,NGO,17
+1163,Libya,Other,4
+1164,Libya,Police,178
+1165,Libya,Private Citizens & Property,555
+1166,Libya,Religious Figures/Institutions,73
+1167,Libya,Telecommunication,1
+1168,Libya,Terrorists/Non-State Militia,111
+1169,Libya,Tourists,1
+1170,Libya,Transportation,5
+1171,Libya,Unknown,68
+1172,Libya,Utilities,32
+1173,Libya,Violent Political Party,2
+1174,Lithuania,Business,2
+1175,Lithuania,Government (Diplomatic),1
+1176,Lithuania,Government (General),2
+1177,Lithuania,Journalists & Media,1
+1178,Lithuania,Military,1
+1179,Lithuania,Private Citizens & Property,1
+1180,Luxembourg,Airports & Aircraft,1
+1181,Luxembourg,Business,5
+1182,Luxembourg,Government (Diplomatic),1
+1183,Luxembourg,Government (General),1
+1184,Luxembourg,Police,1
+1185,Luxembourg,Private Citizens & Property,2
+1186,Luxembourg,Utilities,5
+1187,Macau,Business,14
+1188,Macau,Government (General),5
+1189,Macau,Police,4
+1190,Macau,Private Citizens & Property,9
+1191,Macau,Tourists,1
+1192,Macedonia,Business,10
+1193,Macedonia,Educational Institution,1
+1194,Macedonia,Government (Diplomatic),3
+1195,Macedonia,Government (General),16
+1196,Macedonia,Military,11
+1197,Macedonia,Police,41
+1198,Macedonia,Private Citizens & Property,24
+1199,Macedonia,Religious Figures/Institutions,3
+1200,Macedonia,Tourists,1
+1201,Macedonia,Transportation,6
+1202,Macedonia,Unknown,1
+1203,Macedonia,Utilities,1
+1204,Madagascar,Airports & Aircraft,2
+1205,Madagascar,Business,4
+1206,Madagascar,Government (General),11
+1207,Madagascar,Journalists & Media,2
+1208,Madagascar,Military,2
+1209,Madagascar,Private Citizens & Property,4
+1210,Madagascar,Telecommunication,1
+1211,Madagascar,Transportation,1
+1212,Malawi,Government (General),1
+1213,Malawi,Journalists & Media,1
+1214,Malawi,Private Citizens & Property,2
+1215,Malawi,Religious Figures/Institutions,1
+1216,Malaysia,Airports & Aircraft,5
+1217,Malaysia,Business,12
+1218,Malaysia,Government (Diplomatic),5
+1219,Malaysia,Government (General),9
+1220,Malaysia,Journalists & Media,1
+1221,Malaysia,Maritime,11
+1222,Malaysia,Military,3
+1223,Malaysia,NGO,1
+1224,Malaysia,Police,8
+1225,Malaysia,Private Citizens & Property,25
+1226,Malaysia,Religious Figures/Institutions,6
+1227,Malaysia,Tourists,2
+1228,Malaysia,Transportation,9
+1229,Malaysia,Unknown,2
+1230,Maldives,Government (General),8
+1231,Maldives,Journalists & Media,6
+1232,Maldives,Private Citizens & Property,7
+1233,Maldives,Tourists,1
+1234,Mali,Airports & Aircraft,3
+1235,Mali,Business,13
+1236,Mali,Educational Institution,3
+1237,Mali,Food or Water Supply,1
+1238,Mali,Government (Diplomatic),126
+1239,Mali,Government (General),45
+1240,Mali,Journalists & Media,4
+1241,Mali,Maritime,2
+1242,Mali,Military,197
+1243,Mali,NGO,15
+1244,Mali,Other,1
+1245,Mali,Police,8
+1246,Mali,Private Citizens & Property,107
+1247,Mali,Religious Figures/Institutions,9
+1248,Mali,Telecommunication,1
+1249,Mali,Terrorists/Non-State Militia,9
+1250,Mali,Tourists,3
+1251,Mali,Transportation,9
+1252,Mali,Unknown,7
+1253,Mali,Violent Political Party,3
+1254,Malta,Airports & Aircraft,1
+1255,Malta,Business,5
+1256,Malta,Government (Diplomatic),3
+1257,Malta,Government (General),2
+1258,Malta,Journalists & Media,1
+1259,Malta,Police,1
+1260,Malta,Private Citizens & Property,5
+1261,Malta,Religious Figures/Institutions,3
+1262,Malta,Terrorists/Non-State Militia,1
+1263,Malta,Tourists,1
+1264,Martinique,Airports & Aircraft,1
+1265,Martinique,Business,1
+1266,Martinique,Government (General),4
+1267,Martinique,Journalists & Media,1
+1268,Martinique,Police,1
+1269,Martinique,Private Citizens & Property,2
+1270,Martinique,Telecommunication,2
+1271,Mauritania,Airports & Aircraft,1
+1272,Mauritania,Business,2
+1273,Mauritania,Educational Institution,1
+1274,Mauritania,Government (Diplomatic),2
+1275,Mauritania,Government (General),1
+1276,Mauritania,Military,4
+1277,Mauritania,NGO,1
+1278,Mauritania,Police,2
+1279,Mauritania,Private Citizens & Property,1
+1280,Mauritania,Tourists,1
+1281,Mauritania,Unknown,2
+1282,Mauritius,Government (General),2
+1283,Mexico,Airports & Aircraft,2
+1284,Mexico,Business,113
+1285,Mexico,Educational Institution,6
+1286,Mexico,Government (Diplomatic),22
+1287,Mexico,Government (General),79
+1288,Mexico,Journalists & Media,56
+1289,Mexico,Maritime,1
+1290,Mexico,Military,19
+1291,Mexico,NGO,5
+1292,Mexico,Police,62
+1293,Mexico,Private Citizens & Property,109
+1294,Mexico,Religious Figures/Institutions,10
+1295,Mexico,Tourists,2
+1296,Mexico,Transportation,18
+1297,Mexico,Unknown,3
+1298,Mexico,Utilities,6
+1299,Mexico,Violent Political Party,11
+1300,Moldova,Business,1
+1301,Moldova,Government (Diplomatic),1
+1302,Moldova,Government (General),4
+1303,Moldova,Journalists & Media,1
+1304,Moldova,Police,7
+1305,Moldova,Private Citizens & Property,3
+1306,Moldova,Transportation,3
+1307,Moldova,Utilities,1
+1308,Montenegro,Journalists & Media,3
+1309,Montenegro,Private Citizens & Property,1
+1310,Montenegro,Religious Figures/Institutions,1
+1311,Morocco,Business,10
+1312,Morocco,Educational Institution,3
+1313,Morocco,Government (Diplomatic),4
+1314,Morocco,Government (General),3
+1315,Morocco,Maritime,3
+1316,Morocco,Military,5
+1317,Morocco,Police,2
+1318,Morocco,Private Citizens & Property,5
+1319,Morocco,Tourists,1
+1320,Mozambique,Airports & Aircraft,1
+1321,Mozambique,Business,40
+1322,Mozambique,Educational Institution,3
+1323,Mozambique,Food or Water Supply,2
+1324,Mozambique,Government (Diplomatic),1
+1325,Mozambique,Government (General),29
+1326,Mozambique,Journalists & Media,5
+1327,Mozambique,Maritime,2
+1328,Mozambique,Military,37
+1329,Mozambique,NGO,3
+1330,Mozambique,Police,17
+1331,Mozambique,Private Citizens & Property,111
+1332,Mozambique,Religious Figures/Institutions,9
+1333,Mozambique,Transportation,63
+1334,Mozambique,Utilities,22
+1335,Mozambique,Violent Political Party,18
+1336,Myanmar,Airports & Aircraft,2
+1337,Myanmar,Business,52
+1338,Myanmar,Educational Institution,5
+1339,Myanmar,Government (Diplomatic),1
+1340,Myanmar,Government (General),52
+1341,Myanmar,Journalists & Media,7
+1342,Myanmar,Maritime,9
+1343,Myanmar,Military,70
+1344,Myanmar,NGO,3
+1345,Myanmar,Other,1
+1346,Myanmar,Police,68
+1347,Myanmar,Private Citizens & Property,132
+1348,Myanmar,Religious Figures/Institutions,47
+1349,Myanmar,Telecommunication,2
+1350,Myanmar,Terrorists/Non-State Militia,9
+1351,Myanmar,Tourists,2
+1352,Myanmar,Transportation,50
+1353,Myanmar,Unknown,19
+1354,Myanmar,Utilities,15
+1355,Namibia,Airports & Aircraft,1
+1356,Namibia,Business,26
+1357,Namibia,Educational Institution,5
+1358,Namibia,Food or Water Supply,1
+1359,Namibia,Government (Diplomatic),4
+1360,Namibia,Government (General),22
+1361,Namibia,Journalists & Media,4
+1362,Namibia,Military,9
+1363,Namibia,NGO,1
+1364,Namibia,Police,10
+1365,Namibia,Private Citizens & Property,52
+1366,Namibia,Telecommunication,1
+1367,Namibia,Tourists,1
+1368,Namibia,Transportation,7
+1369,Namibia,Utilities,5
+1370,Namibia,Violent Political Party,2
+1371,Nepal,Airports & Aircraft,14
+1372,Nepal,Business,90
+1373,Nepal,Educational Institution,60
+1374,Nepal,Food or Water Supply,3
+1375,Nepal,Government (Diplomatic),7
+1376,Nepal,Government (General),278
+1377,Nepal,Journalists & Media,19
+1378,Nepal,Military,24
+1379,Nepal,NGO,8
+1380,Nepal,Police,103
+1381,Nepal,Private Citizens & Property,240
+1382,Nepal,Religious Figures/Institutions,16
+1383,Nepal,Telecommunication,21
+1384,Nepal,Terrorists/Non-State Militia,5
+1385,Nepal,Tourists,2
+1386,Nepal,Transportation,72
+1387,Nepal,Unknown,93
+1388,Nepal,Utilities,3
+1389,Nepal,Violent Political Party,157
+1390,Netherlands,Airports & Aircraft,7
+1391,Netherlands,Business,33
+1392,Netherlands,Educational Institution,1
+1393,Netherlands,Food or Water Supply,1
+1394,Netherlands,Government (Diplomatic),25
+1395,Netherlands,Government (General),21
+1396,Netherlands,Journalists & Media,1
+1397,Netherlands,Military,5
+1398,Netherlands,NGO,3
+1399,Netherlands,Police,2
+1400,Netherlands,Private Citizens & Property,12
+1401,Netherlands,Religious Figures/Institutions,10
+1402,Netherlands,Telecommunication,1
+1403,Netherlands,Transportation,3
+1404,Netherlands,Unknown,2
+1405,Netherlands,Utilities,3
+1406,New Caledonia,Business,7
+1407,New Caledonia,Educational Institution,3
+1408,New Caledonia,Government (General),5
+1409,New Caledonia,Journalists & Media,1
+1410,New Caledonia,Military,1
+1411,New Caledonia,Police,6
+1412,New Caledonia,Private Citizens & Property,6
+1413,New Caledonia,Violent Political Party,2
+1414,New Hebrides,Journalists & Media,1
+1415,New Zealand,Business,2
+1416,New Zealand,Government (Diplomatic),4
+1417,New Zealand,Government (General),6
+1418,New Zealand,Police,1
+1419,New Zealand,Private Citizens & Property,7
+1420,Nicaragua,Airports & Aircraft,8
+1421,Nicaragua,Business,203
+1422,Nicaragua,Educational Institution,14
+1423,Nicaragua,Food or Water Supply,3
+1424,Nicaragua,Government (Diplomatic),16
+1425,Nicaragua,Government (General),207
+1426,Nicaragua,Journalists & Media,27
+1427,Nicaragua,Maritime,27
+1428,Nicaragua,Military,979
+1429,Nicaragua,NGO,5
+1430,Nicaragua,Other,2
+1431,Nicaragua,Police,67
+1432,Nicaragua,Private Citizens & Property,237
+1433,Nicaragua,Religious Figures/Institutions,16
+1434,Nicaragua,Telecommunication,11
+1435,Nicaragua,Terrorists/Non-State Militia,10
+1436,Nicaragua,Tourists,1
+1437,Nicaragua,Transportation,49
+1438,Nicaragua,Unknown,9
+1439,Nicaragua,Utilities,69
+1440,Nicaragua,Violent Political Party,10
+1441,Niger,Airports & Aircraft,1
+1442,Niger,Business,5
+1443,Niger,Food or Water Supply,1
+1444,Niger,Government (Diplomatic),3
+1445,Niger,Government (General),9
+1446,Niger,Journalists & Media,2
+1447,Niger,Military,41
+1448,Niger,NGO,3
+1449,Niger,Police,19
+1450,Niger,Private Citizens & Property,60
+1451,Niger,Religious Figures/Institutions,1
+1452,Niger,Telecommunication,1
+1453,Niger,Tourists,2
+1454,Niger,Transportation,4
+1455,Niger,Unknown,2
+1456,Nigeria,Airports & Aircraft,2
+1457,Nigeria,Business,282
+1458,Nigeria,Educational Institution,128
+1459,Nigeria,Government (Diplomatic),13
+1460,Nigeria,Government (General),387
+1461,Nigeria,Journalists & Media,27
+1462,Nigeria,Maritime,27
+1463,Nigeria,Military,333
+1464,Nigeria,NGO,4
+1465,Nigeria,Other,1
+1466,Nigeria,Police,346
+1467,Nigeria,Private Citizens & Property,1721
+1468,Nigeria,Religious Figures/Institutions,226
+1469,Nigeria,Telecommunication,36
+1470,Nigeria,Terrorists/Non-State Militia,41
+1471,Nigeria,Transportation,58
+1472,Nigeria,Unknown,104
+1473,Nigeria,Utilities,141
+1474,Nigeria,Violent Political Party,30
+1475,North Korea,Government (General),1
+1476,North Yemen,Government (Diplomatic),3
+1477,North Yemen,Government (General),3
+1478,Norway,Airports & Aircraft,3
+1479,Norway,Business,1
+1480,Norway,Government (Diplomatic),6
+1481,Norway,Government (General),1
+1482,Norway,Police,1
+1483,Norway,Private Citizens & Property,4
+1484,Norway,Religious Figures/Institutions,1
+1485,Norway,Terrorists/Non-State Militia,1
+1486,Norway,Unknown,1
+1487,Pakistan,Airports & Aircraft,58
+1488,Pakistan,Business,1165
+1489,Pakistan,Educational Institution,953
+1490,Pakistan,Food or Water Supply,26
+1491,Pakistan,Government (Diplomatic),104
+1492,Pakistan,Government (General),1167
+1493,Pakistan,Journalists & Media,176
+1494,Pakistan,Maritime,7
+1495,Pakistan,Military,1730
+1496,Pakistan,NGO,80
+1497,Pakistan,Other,6
+1498,Pakistan,Police,1915
+1499,Pakistan,Private Citizens & Property,3456
+1500,Pakistan,Religious Figures/Institutions,545
+1501,Pakistan,Telecommunication,57
+1502,Pakistan,Terrorists/Non-State Militia,356
+1503,Pakistan,Tourists,10
+1504,Pakistan,Transportation,687
+1505,Pakistan,Unknown,829
+1506,Pakistan,Utilities,636
+1507,Pakistan,Violent Political Party,405
+1508,Panama,Airports & Aircraft,8
+1509,Panama,Business,29
+1510,Panama,Educational Institution,3
+1511,Panama,Food or Water Supply,1
+1512,Panama,Government (Diplomatic),8
+1513,Panama,Government (General),28
+1514,Panama,Journalists & Media,4
+1515,Panama,Military,10
+1516,Panama,NGO,1
+1517,Panama,Police,9
+1518,Panama,Private Citizens & Property,14
+1519,Panama,Transportation,1
+1520,Panama,Unknown,2
+1521,Panama,Utilities,8
+1522,Panama,Violent Political Party,1
+1523,Papua New Guinea,Airports & Aircraft,1
+1524,Papua New Guinea,Business,12
+1525,Papua New Guinea,Educational Institution,5
+1526,Papua New Guinea,Food or Water Supply,1
+1527,Papua New Guinea,Government (Diplomatic),3
+1528,Papua New Guinea,Government (General),23
+1529,Papua New Guinea,Journalists & Media,1
+1530,Papua New Guinea,Maritime,1
+1531,Papua New Guinea,Military,11
+1532,Papua New Guinea,NGO,1
+1533,Papua New Guinea,Police,13
+1534,Papua New Guinea,Private Citizens & Property,8
+1535,Papua New Guinea,Religious Figures/Institutions,1
+1536,Papua New Guinea,Telecommunication,1
+1537,Papua New Guinea,Transportation,4
+1538,Papua New Guinea,Utilities,3
+1539,Paraguay,Business,30
+1540,Paraguay,Educational Institution,1
+1541,Paraguay,Government (Diplomatic),3
+1542,Paraguay,Government (General),11
+1543,Paraguay,Journalists & Media,4
+1544,Paraguay,Military,7
+1545,Paraguay,Police,18
+1546,Paraguay,Private Citizens & Property,19
+1547,Paraguay,Terrorists/Non-State Militia,2
+1548,Paraguay,Transportation,14
+1549,Paraguay,Utilities,5
+1550,People's Republic of the Congo,Business,2
+1551,People's Republic of the Congo,Government (Diplomatic),1
+1552,People's Republic of the Congo,Transportation,1
+1553,Peru,Airports & Aircraft,37
+1554,Peru,Business,1164
+1555,Peru,Educational Institution,151
+1556,Peru,Food or Water Supply,51
+1557,Peru,Government (Diplomatic),117
+1558,Peru,Government (General),1004
+1559,Peru,Journalists & Media,157
+1560,Peru,Maritime,10
+1561,Peru,Military,507
+1562,Peru,NGO,13
+1563,Peru,Police,759
+1564,Peru,Private Citizens & Property,1032
+1565,Peru,Religious Figures/Institutions,45
+1566,Peru,Telecommunication,59
+1567,Peru,Terrorists/Non-State Militia,34
+1568,Peru,Tourists,16
+1569,Peru,Transportation,262
+1570,Peru,Unknown,26
+1571,Peru,Utilities,652
+1572,Philippines,Airports & Aircraft,26
+1573,Philippines,Business,976
+1574,Philippines,Educational Institution,149
+1575,Philippines,Food or Water Supply,16
+1576,Philippines,Government (Diplomatic),32
+1577,Philippines,Government (General),1326
+1578,Philippines,Journalists & Media,101
+1579,Philippines,Maritime,41
+1580,Philippines,Military,1571
+1581,Philippines,NGO,23
+1582,Philippines,Other,4
+1583,Philippines,Police,633
+1584,Philippines,Private Citizens & Property,1138
+1585,Philippines,Religious Figures/Institutions,119
+1586,Philippines,Telecommunication,84
+1587,Philippines,Terrorists/Non-State Militia,57
+1588,Philippines,Tourists,16
+1589,Philippines,Transportation,216
+1590,Philippines,Unknown,187
+1591,Philippines,Utilities,192
+1592,Philippines,Violent Political Party,1
+1593,Poland,Airports & Aircraft,1
+1594,Poland,Business,11
+1595,Poland,Educational Institution,1
+1596,Poland,Government (Diplomatic),3
+1597,Poland,Government (General),5
+1598,Poland,Journalists & Media,3
+1599,Poland,Police,3
+1600,Poland,Private Citizens & Property,6
+1601,Poland,Religious Figures/Institutions,1
+1602,Poland,Tourists,1
+1603,Poland,Transportation,2
+1604,Poland,Unknown,1
+1605,Poland,Violent Political Party,1
+1606,Portugal,Airports & Aircraft,5
+1607,Portugal,Business,25
+1608,Portugal,Educational Institution,2
+1609,Portugal,Government (Diplomatic),15
+1610,Portugal,Government (General),26
+1611,Portugal,Journalists & Media,3
+1612,Portugal,Military,12
+1613,Portugal,Police,13
+1614,Portugal,Private Citizens & Property,25
+1615,Portugal,Religious Figures/Institutions,1
+1616,Portugal,Terrorists/Non-State Militia,1
+1617,Portugal,Tourists,1
+1618,Portugal,Transportation,2
+1619,Portugal,Unknown,5
+1620,Portugal,Utilities,2
+1621,Portugal,Violent Political Party,2
+1622,Qatar,Airports & Aircraft,1
+1623,Qatar,Government (Diplomatic),2
+1624,Qatar,Government (General),1
+1625,Qatar,Military,1
+1626,Qatar,Private Citizens & Property,2
+1627,Republic of the Congo,Business,2
+1628,Republic of the Congo,Government (Diplomatic),1
+1629,Republic of the Congo,Government (General),6
+1630,Republic of the Congo,Military,1
+1631,Republic of the Congo,NGO,1
+1632,Republic of the Congo,Police,11
+1633,Republic of the Congo,Private Citizens & Property,7
+1634,Republic of the Congo,Religious Figures/Institutions,2
+1635,Republic of the Congo,Tourists,1
+1636,Republic of the Congo,Transportation,4
+1637,Rhodesia,Airports & Aircraft,4
+1638,Rhodesia,Business,15
+1639,Rhodesia,Government (General),14
+1640,Rhodesia,Journalists & Media,1
+1641,Rhodesia,Military,2
+1642,Rhodesia,NGO,3
+1643,Rhodesia,Police,1
+1644,Rhodesia,Private Citizens & Property,17
+1645,Rhodesia,Religious Figures/Institutions,11
+1646,Rhodesia,Transportation,11
+1647,Rhodesia,Unknown,1
+1648,Rhodesia,Utilities,3
+1649,Romania,Business,1
+1650,Romania,Government (Diplomatic),2
+1651,Romania,Private Citizens & Property,2
+1652,Romania,Unknown,1
+1653,Russia,Airports & Aircraft,12
+1654,Russia,Business,199
+1655,Russia,Educational Institution,27
+1656,Russia,Food or Water Supply,1
+1657,Russia,Government (Diplomatic),11
+1658,Russia,Government (General),395
+1659,Russia,Journalists & Media,40
+1660,Russia,Military,208
+1661,Russia,NGO,23
+1662,Russia,Other,1
+1663,Russia,Police,608
+1664,Russia,Private Citizens & Property,271
+1665,Russia,Religious Figures/Institutions,100
+1666,Russia,Telecommunication,13
+1667,Russia,Terrorists/Non-State Militia,3
+1668,Russia,Tourists,4
+1669,Russia,Transportation,156
+1670,Russia,Unknown,77
+1671,Russia,Utilities,43
+1672,Russia,Violent Political Party,2
+1673,Rwanda,Business,14
+1674,Rwanda,Educational Institution,2
+1675,Rwanda,Government (Diplomatic),10
+1676,Rwanda,Government (General),29
+1677,Rwanda,Military,3
+1678,Rwanda,NGO,5
+1679,Rwanda,Police,7
+1680,Rwanda,Private Citizens & Property,63
+1681,Rwanda,Religious Figures/Institutions,11
+1682,Rwanda,Transportation,12
+1683,Rwanda,Unknown,1
+1684,Rwanda,Utilities,2
+1685,Saudi Arabia,Airports & Aircraft,12
+1686,Saudi Arabia,Business,23
+1687,Saudi Arabia,Educational Institution,5
+1688,Saudi Arabia,Food or Water Supply,1
+1689,Saudi Arabia,Government (Diplomatic),5
+1690,Saudi Arabia,Government (General),14
+1691,Saudi Arabia,Journalists & Media,1
+1692,Saudi Arabia,Military,76
+1693,Saudi Arabia,Police,103
+1694,Saudi Arabia,Private Citizens & Property,97
+1695,Saudi Arabia,Religious Figures/Institutions,18
+1696,Saudi Arabia,Tourists,1
+1697,Saudi Arabia,Unknown,9
+1698,Saudi Arabia,Utilities,6
+1699,Senegal,Airports & Aircraft,1
+1700,Senegal,Business,6
+1701,Senegal,Educational Institution,3
+1702,Senegal,Government (Diplomatic),1
+1703,Senegal,Government (General),17
+1704,Senegal,Military,32
+1705,Senegal,Police,8
+1706,Senegal,Private Citizens & Property,28
+1707,Senegal,Religious Figures/Institutions,2
+1708,Senegal,Terrorists/Non-State Militia,2
+1709,Senegal,Tourists,2
+1710,Senegal,Transportation,14
+1711,Senegal,Unknown,1
+1712,Senegal,Utilities,1
+1713,Serbia,Government (Diplomatic),3
+1714,Serbia,Government (General),1
+1715,Serbia,Journalists & Media,1
+1716,Serbia,Police,5
+1717,Serbia,Private Citizens & Property,2
+1718,Serbia-Montenegro,Government (Diplomatic),1
+1719,Serbia-Montenegro,Government (General),4
+1720,Serbia-Montenegro,Military,1
+1721,Serbia-Montenegro,Police,4
+1722,Serbia-Montenegro,Private Citizens & Property,1
+1723,Seychelles,Airports & Aircraft,2
+1724,Sierra Leone,Business,10
+1725,Sierra Leone,Government (Diplomatic),12
+1726,Sierra Leone,Government (General),8
+1727,Sierra Leone,Journalists & Media,2
+1728,Sierra Leone,Maritime,1
+1729,Sierra Leone,Military,14
+1730,Sierra Leone,NGO,3
+1731,Sierra Leone,Police,1
+1732,Sierra Leone,Private Citizens & Property,38
+1733,Sierra Leone,Religious Figures/Institutions,3
+1734,Sierra Leone,Transportation,5
+1735,Sierra Leone,Unknown,2
+1736,Sierra Leone,Utilities,2
+1737,Singapore,Airports & Aircraft,1
+1738,Singapore,Business,1
+1739,Singapore,Military,1
+1740,Singapore,Private Citizens & Property,2
+1741,Singapore,Tourists,1
+1742,Singapore,Utilities,1
+1743,Slovak Republic,Business,3
+1744,Slovak Republic,Government (General),5
+1745,Slovak Republic,Journalists & Media,2
+1746,Slovak Republic,NGO,1
+1747,Slovak Republic,Police,1
+1748,Slovak Republic,Private Citizens & Property,4
+1749,Slovak Republic,Transportation,1
+1750,Slovak Republic,Unknown,1
+1751,Slovenia,Business,1
+1752,Slovenia,Government (General),4
+1753,Slovenia,Tourists,1
+1754,Solomon Islands,Airports & Aircraft,1
+1755,Solomon Islands,Government (General),1
+1756,Solomon Islands,Police,1
+1757,Solomon Islands,Private Citizens & Property,1
+1758,Somalia,Airports & Aircraft,48
+1759,Somalia,Business,186
+1760,Somalia,Educational Institution,26
+1761,Somalia,Food or Water Supply,17
+1762,Somalia,Government (Diplomatic),130
+1763,Somalia,Government (General),688
+1764,Somalia,Journalists & Media,99
+1765,Somalia,Maritime,18
+1766,Somalia,Military,1620
+1767,Somalia,NGO,98
+1768,Somalia,Other,2
+1769,Somalia,Police,228
+1770,Somalia,Private Citizens & Property,751
+1771,Somalia,Religious Figures/Institutions,45
+1772,Somalia,Telecommunication,6
+1773,Somalia,Terrorists/Non-State Militia,65
+1774,Somalia,Transportation,34
+1775,Somalia,Unknown,73
+1776,Somalia,Utilities,7
+1777,Somalia,Violent Political Party,1
+1778,South Africa,Airports & Aircraft,6
+1779,South Africa,Business,216
+1780,South Africa,Educational Institution,28
+1781,South Africa,Food or Water Supply,4
+1782,South Africa,Government (Diplomatic),11
+1783,South Africa,Government (General),336
+1784,South Africa,Journalists & Media,11
+1785,South Africa,Military,81
+1786,South Africa,NGO,2
+1787,South Africa,Police,410
+1788,South Africa,Private Citizens & Property,505
+1789,South Africa,Religious Figures/Institutions,19
+1790,South Africa,Telecommunication,5
+1791,South Africa,Terrorists/Non-State Militia,1
+1792,South Africa,Tourists,2
+1793,South Africa,Transportation,199
+1794,South Africa,Unknown,7
+1795,South Africa,Utilities,78
+1796,South Africa,Violent Political Party,95
+1797,South Korea,Airports & Aircraft,1
+1798,South Korea,Business,3
+1799,South Korea,Government (Diplomatic),10
+1800,South Korea,Government (General),10
+1801,South Korea,Military,6
+1802,South Korea,Police,5
+1803,South Korea,Private Citizens & Property,3
+1804,South Sudan,Business,10
+1805,South Sudan,Educational Institution,2
+1806,South Sudan,Government (Diplomatic),23
+1807,South Sudan,Government (General),15
+1808,South Sudan,Journalists & Media,4
+1809,South Sudan,Military,56
+1810,South Sudan,NGO,17
+1811,South Sudan,Police,7
+1812,South Sudan,Private Citizens & Property,70
+1813,South Sudan,Religious Figures/Institutions,2
+1814,South Sudan,Terrorists/Non-State Militia,5
+1815,South Sudan,Tourists,1
+1816,South Sudan,Transportation,11
+1817,South Sudan,Utilities,2
+1818,South Vietnam,Airports & Aircraft,1
+1819,South Yemen,Airports & Aircraft,1
+1820,South Yemen,Maritime,1
+1821,Soviet Union,Airports & Aircraft,5
+1822,Soviet Union,Business,2
+1823,Soviet Union,Educational Institution,1
+1824,Soviet Union,Government (Diplomatic),1
+1825,Soviet Union,Government (General),17
+1826,Soviet Union,Military,11
+1827,Soviet Union,Police,8
+1828,Soviet Union,Private Citizens & Property,16
+1829,Soviet Union,Terrorists/Non-State Militia,1
+1830,Soviet Union,Transportation,15
+1831,Soviet Union,Utilities,1
+1832,Spain,Airports & Aircraft,48
+1833,Spain,Business,1018
+1834,Spain,Educational Institution,31
+1835,Spain,Food or Water Supply,2
+1836,Spain,Government (Diplomatic),49
+1837,Spain,Government (General),425
+1838,Spain,Journalists & Media,74
+1839,Spain,Maritime,5
+1840,Spain,Military,192
+1841,Spain,NGO,4
+1842,Spain,Police,718
+1843,Spain,Private Citizens & Property,309
+1844,Spain,Religious Figures/Institutions,17
+1845,Spain,Telecommunication,38
+1846,Spain,Terrorists/Non-State Militia,11
+1847,Spain,Tourists,20
+1848,Spain,Transportation,159
+1849,Spain,Unknown,25
+1850,Spain,Utilities,97
+1851,Spain,Violent Political Party,7
+1852,Sri Lanka,Airports & Aircraft,6
+1853,Sri Lanka,Business,183
+1854,Sri Lanka,Educational Institution,30
+1855,Sri Lanka,Food or Water Supply,8
+1856,Sri Lanka,Government (Diplomatic),12
+1857,Sri Lanka,Government (General),344
+1858,Sri Lanka,Journalists & Media,43
+1859,Sri Lanka,Maritime,26
+1860,Sri Lanka,Military,736
+1861,Sri Lanka,NGO,24
+1862,Sri Lanka,Other,1
+1863,Sri Lanka,Police,468
+1864,Sri Lanka,Private Citizens & Property,597
+1865,Sri Lanka,Religious Figures/Institutions,65
+1866,Sri Lanka,Telecommunication,15
+1867,Sri Lanka,Terrorists/Non-State Militia,53
+1868,Sri Lanka,Tourists,3
+1869,Sri Lanka,Transportation,240
+1870,Sri Lanka,Unknown,35
+1871,Sri Lanka,Utilities,34
+1872,Sri Lanka,Violent Political Party,99
+1873,St. Kitts and Nevis,Government (General),1
+1874,St. Kitts and Nevis,Private Citizens & Property,1
+1875,St. Lucia,Religious Figures/Institutions,1
+1876,Sudan,Airports & Aircraft,10
+1877,Sudan,Business,43
+1878,Sudan,Educational Institution,7
+1879,Sudan,Food or Water Supply,4
+1880,Sudan,Government (Diplomatic),114
+1881,Sudan,Government (General),56
+1882,Sudan,Journalists & Media,5
+1883,Sudan,Maritime,5
+1884,Sudan,Military,73
+1885,Sudan,NGO,23
+1886,Sudan,Police,31
+1887,Sudan,Private Citizens & Property,552
+1888,Sudan,Religious Figures/Institutions,14
+1889,Sudan,Telecommunication,1
+1890,Sudan,Terrorists/Non-State Militia,6
+1891,Sudan,Tourists,1
+1892,Sudan,Transportation,14
+1893,Sudan,Unknown,2
+1894,Sudan,Utilities,6
+1895,Suriname,Airports & Aircraft,4
+1896,Suriname,Business,12
+1897,Suriname,Food or Water Supply,1
+1898,Suriname,Government (General),3
+1899,Suriname,Journalists & Media,1
+1900,Suriname,Maritime,3
+1901,Suriname,Military,16
+1902,Suriname,Police,7
+1903,Suriname,Private Citizens & Property,7
+1904,Suriname,Telecommunication,1
+1905,Suriname,Transportation,2
+1906,Suriname,Utilities,9
+1907,Swaziland,Educational Institution,1
+1908,Swaziland,Government (General),7
+1909,Swaziland,Military,1
+1910,Swaziland,Police,2
+1911,Swaziland,Private Citizens & Property,2
+1912,Swaziland,Transportation,3
+1913,Sweden,Airports & Aircraft,3
+1914,Sweden,Business,10
+1915,Sweden,Educational Institution,3
+1916,Sweden,Food or Water Supply,1
+1917,Sweden,Government (Diplomatic),13
+1918,Sweden,Government (General),13
+1919,Sweden,Journalists & Media,1
+1920,Sweden,Police,3
+1921,Sweden,Private Citizens & Property,71
+1922,Sweden,Religious Figures/Institutions,10
+1923,Sweden,Tourists,1
+1924,Sweden,Transportation,2
+1925,Sweden,Unknown,1
+1926,Switzerland,Airports & Aircraft,13
+1927,Switzerland,Business,23
+1928,Switzerland,Food or Water Supply,1
+1929,Switzerland,Government (Diplomatic),29
+1930,Switzerland,Government (General),15
+1931,Switzerland,Journalists & Media,1
+1932,Switzerland,Military,2
+1933,Switzerland,Police,1
+1934,Switzerland,Private Citizens & Property,12
+1935,Switzerland,Terrorists/Non-State Militia,1
+1936,Switzerland,Transportation,6
+1937,Switzerland,Unknown,2
+1938,Switzerland,Utilities,5
+1939,Syria,Airports & Aircraft,8
+1940,Syria,Business,94
+1941,Syria,Educational Institution,45
+1942,Syria,Government (Diplomatic),45
+1943,Syria,Government (General),88
+1944,Syria,Journalists & Media,77
+1945,Syria,Military,591
+1946,Syria,NGO,24
+1947,Syria,Other,2
+1948,Syria,Police,68
+1949,Syria,Private Citizens & Property,881
+1950,Syria,Religious Figures/Institutions,75
+1951,Syria,Telecommunication,1
+1952,Syria,Terrorists/Non-State Militia,107
+1953,Syria,Transportation,41
+1954,Syria,Unknown,30
+1955,Syria,Utilities,21
+1956,Syria,Violent Political Party,3
+1957,Taiwan,Airports & Aircraft,3
+1958,Taiwan,Business,6
+1959,Taiwan,Educational Institution,2
+1960,Taiwan,Government (Diplomatic),1
+1961,Taiwan,Government (General),14
+1962,Taiwan,Military,1
+1963,Taiwan,Police,3
+1964,Taiwan,Private Citizens & Property,4
+1965,Taiwan,Telecommunication,1
+1966,Taiwan,Transportation,13
+1967,Taiwan,Violent Political Party,2
+1968,Tajikistan,Airports & Aircraft,2
+1969,Tajikistan,Business,13
+1970,Tajikistan,Educational Institution,2
+1971,Tajikistan,Food or Water Supply,2
+1972,Tajikistan,Government (Diplomatic),6
+1973,Tajikistan,Government (General),44
+1974,Tajikistan,Journalists & Media,9
+1975,Tajikistan,Military,53
+1976,Tajikistan,NGO,4
+1977,Tajikistan,Police,20
+1978,Tajikistan,Private Citizens & Property,14
+1979,Tajikistan,Religious Figures/Institutions,3
+1980,Tajikistan,Telecommunication,1
+1981,Tajikistan,Terrorists/Non-State Militia,1
+1982,Tajikistan,Transportation,6
+1983,Tajikistan,Unknown,6
+1984,Tajikistan,Utilities,2
+1985,Tanzania,Airports & Aircraft,1
+1986,Tanzania,Business,4
+1987,Tanzania,Educational Institution,2
+1988,Tanzania,Government (Diplomatic),4
+1989,Tanzania,Government (General),8
+1990,Tanzania,Journalists & Media,4
+1991,Tanzania,Military,1
+1992,Tanzania,Police,4
+1993,Tanzania,Private Citizens & Property,9
+1994,Tanzania,Religious Figures/Institutions,17
+1995,Tanzania,Transportation,1
+1996,Tanzania,Unknown,3
+1997,Tanzania,Violent Political Party,1
+1998,Thailand,Airports & Aircraft,7
+1999,Thailand,Business,566
+2000,Thailand,Educational Institution,232
+2001,Thailand,Food or Water Supply,4
+2002,Thailand,Government (Diplomatic),16
+2003,Thailand,Government (General),475
+2004,Thailand,Journalists & Media,25
+2005,Thailand,Maritime,5
+2006,Thailand,Military,558
+2007,Thailand,NGO,3
+2008,Thailand,Other,4
+2009,Thailand,Police,523
+2010,Thailand,Private Citizens & Property,954
+2011,Thailand,Religious Figures/Institutions,55
+2012,Thailand,Telecommunication,69
+2013,Thailand,Terrorists/Non-State Militia,7
+2014,Thailand,Tourists,1
+2015,Thailand,Transportation,106
+2016,Thailand,Unknown,71
+2017,Thailand,Utilities,167
+2018,Thailand,Violent Political Party,1
+2019,Togo,Business,6
+2020,Togo,Educational Institution,4
+2021,Togo,Government (Diplomatic),1
+2022,Togo,Government (General),22
+2023,Togo,Military,3
+2024,Togo,NGO,1
+2025,Togo,Police,5
+2026,Togo,Private Citizens & Property,5
+2027,Togo,Transportation,1
+2028,Trinidad and Tobago,Business,2
+2029,Trinidad and Tobago,Government (Diplomatic),2
+2030,Trinidad and Tobago,Government (General),6
+2031,Trinidad and Tobago,Journalists & Media,1
+2032,Trinidad and Tobago,Maritime,1
+2033,Trinidad and Tobago,Police,1
+2034,Trinidad and Tobago,Private Citizens & Property,4
+2035,Trinidad and Tobago,Religious Figures/Institutions,1
+2036,Trinidad and Tobago,Terrorists/Non-State Militia,1
+2037,Trinidad and Tobago,Transportation,3
+2038,Tunisia,Airports & Aircraft,1
+2039,Tunisia,Business,6
+2040,Tunisia,Educational Institution,1
+2041,Tunisia,Government (Diplomatic),4
+2042,Tunisia,Government (General),4
+2043,Tunisia,Military,50
+2044,Tunisia,Police,18
+2045,Tunisia,Private Citizens & Property,10
+2046,Tunisia,Religious Figures/Institutions,7
+2047,Tunisia,Terrorists/Non-State Militia,2
+2048,Tunisia,Tourists,4
+2049,Tunisia,Unknown,1
+2050,Tunisia,Utilities,1
+2051,Turkey,Airports & Aircraft,38
+2052,Turkey,Business,636
+2053,Turkey,Educational Institution,162
+2054,Turkey,Food or Water Supply,5
+2055,Turkey,Government (Diplomatic),88
+2056,Turkey,Government (General),461
+2057,Turkey,Journalists & Media,70
+2058,Turkey,Maritime,4
+2059,Turkey,Military,965
+2060,Turkey,NGO,9
+2061,Turkey,Other,4
+2062,Turkey,Police,705
+2063,Turkey,Private Citizens & Property,667
+2064,Turkey,Religious Figures/Institutions,37
+2065,Turkey,Telecommunication,11
+2066,Turkey,Terrorists/Non-State Militia,44
+2067,Turkey,Tourists,17
+2068,Turkey,Transportation,151
+2069,Turkey,Unknown,101
+2070,Turkey,Utilities,68
+2071,Turkey,Violent Political Party,49
+2072,Turkmenistan,Government (General),1
+2073,Turkmenistan,Military,1
+2074,Uganda,Airports & Aircraft,2
+2075,Uganda,Business,51
+2076,Uganda,Educational Institution,11
+2077,Uganda,Government (Diplomatic),12
+2078,Uganda,Government (General),40
+2079,Uganda,Journalists & Media,2
+2080,Uganda,Military,24
+2081,Uganda,NGO,7
+2082,Uganda,Police,26
+2083,Uganda,Private Citizens & Property,152
+2084,Uganda,Religious Figures/Institutions,29
+2085,Uganda,Telecommunication,1
+2086,Uganda,Tourists,2
+2087,Uganda,Transportation,27
+2088,Uganda,Unknown,2
+2089,Uganda,Utilities,5
+2090,Uganda,Violent Political Party,1
+2091,Ukraine,Airports & Aircraft,5
+2092,Ukraine,Business,94
+2093,Ukraine,Educational Institution,15
+2094,Ukraine,Food or Water Supply,7
+2095,Ukraine,Government (Diplomatic),27
+2096,Ukraine,Government (General),101
+2097,Ukraine,Journalists & Media,46
+2098,Ukraine,Military,857
+2099,Ukraine,NGO,8
+2100,Ukraine,Other,3
+2101,Ukraine,Police,56
+2102,Ukraine,Private Citizens & Property,324
+2103,Ukraine,Religious Figures/Institutions,18
+2104,Ukraine,Telecommunication,2
+2105,Ukraine,Terrorists/Non-State Militia,11
+2106,Ukraine,Tourists,1
+2107,Ukraine,Transportation,71
+2108,Ukraine,Unknown,24
+2109,Ukraine,Utilities,36
+2110,Ukraine,Violent Political Party,3
+2111,United Arab Emirates,Airports & Aircraft,6
+2112,United Arab Emirates,Business,5
+2113,United Arab Emirates,Educational Institution,1
+2114,United Arab Emirates,Government (Diplomatic),1
+2115,United Arab Emirates,Government (General),2
+2116,United Arab Emirates,Maritime,1
+2117,United Arab Emirates,Military,2
+2118,United Arab Emirates,Police,1
+2119,United Arab Emirates,Private Citizens & Property,1
+2120,United Arab Emirates,Religious Figures/Institutions,2
+2121,United Kingdom,Abortion Related,1
+2122,United Kingdom,Airports & Aircraft,29
+2123,United Kingdom,Business,891
+2124,United Kingdom,Educational Institution,29
+2125,United Kingdom,Food or Water Supply,2
+2126,United Kingdom,Government (Diplomatic),36
+2127,United Kingdom,Government (General),327
+2128,United Kingdom,Journalists & Media,17
+2129,United Kingdom,Maritime,5
+2130,United Kingdom,Military,855
+2131,United Kingdom,NGO,9
+2132,United Kingdom,Other,3
+2133,United Kingdom,Police,794
+2134,United Kingdom,Private Citizens & Property,1650
+2135,United Kingdom,Religious Figures/Institutions,92
+2136,United Kingdom,Telecommunication,8
+2137,United Kingdom,Terrorists/Non-State Militia,188
+2138,United Kingdom,Tourists,9
+2139,United Kingdom,Transportation,120
+2140,United Kingdom,Unknown,158
+2141,United Kingdom,Utilities,8
+2142,United Kingdom,Violent Political Party,4
+2143,United States,Abortion Related,253
+2144,United States,Airports & Aircraft,54
+2145,United States,Business,781
+2146,United States,Educational Institution,169
+2147,United States,Food or Water Supply,7
+2148,United States,Government (Diplomatic),148
+2149,United States,Government (General),327
+2150,United States,Journalists & Media,61
+2151,United States,Maritime,7
+2152,United States,Military,188
+2153,United States,NGO,28
+2154,United States,Other,2
+2155,United States,Police,170
+2156,United States,Private Citizens & Property,343
+2157,United States,Religious Figures/Institutions,148
+2158,United States,Telecommunication,10
+2159,United States,Terrorists/Non-State Militia,8
+2160,United States,Tourists,10
+2161,United States,Transportation,17
+2162,United States,Unknown,11
+2163,United States,Utilities,88
+2164,United States,Violent Political Party,6
+2165,Uruguay,Airports & Aircraft,1
+2166,Uruguay,Business,23
+2167,Uruguay,Educational Institution,5
+2168,Uruguay,Government (Diplomatic),8
+2169,Uruguay,Government (General),15
+2170,Uruguay,Journalists & Media,7
+2171,Uruguay,Military,6
+2172,Uruguay,Police,3
+2173,Uruguay,Private Citizens & Property,12
+2174,Uruguay,Telecommunication,1
+2175,Uruguay,Transportation,1
+2176,Uzbekistan,Business,1
+2177,Uzbekistan,Government (Diplomatic),5
+2178,Uzbekistan,Government (General),3
+2179,Uzbekistan,Police,5
+2180,Uzbekistan,Private Citizens & Property,6
+2181,Uzbekistan,Transportation,1
+2182,Vanuatu,Government (General),2
+2183,Vatican City,Religious Figures/Institutions,1
+2184,Venezuela,Airports & Aircraft,9
+2185,Venezuela,Business,53
+2186,Venezuela,Educational Institution,5
+2187,Venezuela,Food or Water Supply,2
+2188,Venezuela,Government (Diplomatic),21
+2189,Venezuela,Government (General),39
+2190,Venezuela,Journalists & Media,8
+2191,Venezuela,Military,41
+2192,Venezuela,Police,26
+2193,Venezuela,Private Citizens & Property,44
+2194,Venezuela,Religious Figures/Institutions,6
+2195,Venezuela,Telecommunication,1
+2196,Venezuela,Terrorists/Non-State Militia,1
+2197,Venezuela,Transportation,25
+2198,Venezuela,Unknown,6
+2199,Venezuela,Utilities,6
+2200,Vietnam,Airports & Aircraft,2
+2201,Vietnam,Business,2
+2202,Vietnam,Educational Institution,4
+2203,Vietnam,Food or Water Supply,1
+2204,Vietnam,Government (Diplomatic),1
+2205,Vietnam,Maritime,1
+2206,Vietnam,Police,1
+2207,Wallis and Futuna,Government (General),1
+2208,West Bank and Gaza Strip,Airports & Aircraft,1
+2209,West Bank and Gaza Strip,Business,84
+2210,West Bank and Gaza Strip,Educational Institution,32
+2211,West Bank and Gaza Strip,Food or Water Supply,1
+2212,West Bank and Gaza Strip,Government (Diplomatic),22
+2213,West Bank and Gaza Strip,Government (General),112
+2214,West Bank and Gaza Strip,Journalists & Media,20
+2215,West Bank and Gaza Strip,Maritime,1
+2216,West Bank and Gaza Strip,Military,621
+2217,West Bank and Gaza Strip,NGO,5
+2218,West Bank and Gaza Strip,Other,1
+2219,West Bank and Gaza Strip,Police,195
+2220,West Bank and Gaza Strip,Private Citizens & Property,837
+2221,West Bank and Gaza Strip,Religious Figures/Institutions,52
+2222,West Bank and Gaza Strip,Terrorists/Non-State Militia,27
+2223,West Bank and Gaza Strip,Tourists,10
+2224,West Bank and Gaza Strip,Transportation,91
+2225,West Bank and Gaza Strip,Unknown,72
+2226,West Bank and Gaza Strip,Utilities,5
+2227,West Bank and Gaza Strip,Violent Political Party,38
+2228,West Germany (FRG),Abortion Related,3
+2229,West Germany (FRG),Airports & Aircraft,21
+2230,West Germany (FRG),Business,138
+2231,West Germany (FRG),Educational Institution,10
+2232,West Germany (FRG),Food or Water Supply,1
+2233,West Germany (FRG),Government (Diplomatic),51
+2234,West Germany (FRG),Government (General),64
+2235,West Germany (FRG),Journalists & Media,11
+2236,West Germany (FRG),Maritime,2
+2237,West Germany (FRG),Military,109
+2238,West Germany (FRG),NGO,3
+2239,West Germany (FRG),Police,39
+2240,West Germany (FRG),Private Citizens & Property,34
+2241,West Germany (FRG),Religious Figures/Institutions,3
+2242,West Germany (FRG),Telecommunication,4
+2243,West Germany (FRG),Terrorists/Non-State Militia,2
+2244,West Germany (FRG),Tourists,4
+2245,West Germany (FRG),Transportation,24
+2246,West Germany (FRG),Unknown,2
+2247,West Germany (FRG),Utilities,16
+2248,Western Sahara,Government (Diplomatic),1
+2249,Western Sahara,Maritime,3
+2250,Western Sahara,Police,1
+2251,Yemen,Airports & Aircraft,15
+2252,Yemen,Business,125
+2253,Yemen,Educational Institution,45
+2254,Yemen,Government (Diplomatic),60
+2255,Yemen,Government (General),433
+2256,Yemen,Journalists & Media,82
+2257,Yemen,Maritime,11
+2258,Yemen,Military,1021
+2259,Yemen,NGO,28
+2260,Yemen,Other,1
+2261,Yemen,Police,249
+2262,Yemen,Private Citizens & Property,637
+2263,Yemen,Religious Figures/Institutions,79
+2264,Yemen,Telecommunication,2
+2265,Yemen,Terrorists/Non-State Militia,158
+2266,Yemen,Tourists,27
+2267,Yemen,Transportation,10
+2268,Yemen,Unknown,87
+2269,Yemen,Utilities,165
+2270,Yemen,Violent Political Party,112
+2271,Yugoslavia,Airports & Aircraft,1
+2272,Yugoslavia,Business,19
+2273,Yugoslavia,Educational Institution,1
+2274,Yugoslavia,Food or Water Supply,1
+2275,Yugoslavia,Government (Diplomatic),7
+2276,Yugoslavia,Government (General),26
+2277,Yugoslavia,Journalists & Media,4
+2278,Yugoslavia,Military,12
+2279,Yugoslavia,Other,1
+2280,Yugoslavia,Police,78
+2281,Yugoslavia,Private Citizens & Property,36
+2282,Yugoslavia,Religious Figures/Institutions,6
+2283,Yugoslavia,Terrorists/Non-State Militia,1
+2284,Yugoslavia,Transportation,6
+2285,Yugoslavia,Unknown,3
+2286,Yugoslavia,Utilities,1
+2287,Zaire,Airports & Aircraft,2
+2288,Zaire,Business,6
+2289,Zaire,Government (Diplomatic),6
+2290,Zaire,Government (General),7
+2291,Zaire,Journalists & Media,4
+2292,Zaire,Military,1
+2293,Zaire,NGO,3
+2294,Zaire,Police,1
+2295,Zaire,Private Citizens & Property,9
+2296,Zaire,Religious Figures/Institutions,7
+2297,Zaire,Telecommunication,2
+2298,Zaire,Tourists,1
+2299,Zaire,Transportation,1
+2300,Zambia,Business,5
+2301,Zambia,Food or Water Supply,2
+2302,Zambia,Government (Diplomatic),3
+2303,Zambia,Government (General),12
+2304,Zambia,Journalists & Media,2
+2305,Zambia,NGO,1
+2306,Zambia,Private Citizens & Property,23
+2307,Zambia,Transportation,6
+2308,Zambia,Violent Political Party,8
+2309,Zimbabwe,Business,13
+2310,Zimbabwe,Food or Water Supply,1
+2311,Zimbabwe,Government (General),20
+2312,Zimbabwe,Journalists & Media,5
+2313,Zimbabwe,Military,5
+2314,Zimbabwe,Police,5
+2315,Zimbabwe,Private Citizens & Property,26
+2316,Zimbabwe,Religious Figures/Institutions,5
+2317,Zimbabwe,Tourists,3
+2318,Zimbabwe,Transportation,3
+2319,Zimbabwe,Utilities,4
+2320,Zimbabwe,Violent Political Party,11
